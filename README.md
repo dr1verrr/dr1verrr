@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying ... 
 - 🌱 I’m currently learning ... React.js, Redux, Next.js
 - 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ...
+- 🤔 I'm looking for help with ... any ideas for practice self-project
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [https://twitter.com/Darfor2107Choco](https://twitter.com/Darfor2107Choco)
 - 😄 Pronouns: ... He/Him
