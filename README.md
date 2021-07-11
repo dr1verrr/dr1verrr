@@ -1,4 +1,4 @@
-### Here is What i'm working on! 👋
+### Here is what i'm working on! 👋
 
 
 - 🔭 I’m currently working on ... I am not working right now
