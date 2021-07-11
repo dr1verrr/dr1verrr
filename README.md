@@ -1,7 +1,7 @@
 ### Here is What i'm working on! 👋
 
 
-- 🔭 I’m currently studying ...
+- 🔭 I’m currently working on ... I am not working right now
 - 🌱 I’m currently learning ... React.js, Redux, Next.js
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ...
