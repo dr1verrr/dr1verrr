@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/dr1verrr/)
+- 📫 How to reach me: ... [https://twitter.com/Darfor2107Choco](https://twitter.com/Darfor2107Choco)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am not driver
 
