@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I'm looking for help with ... any ideas for practice self-project
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [https://twitter.com/Darfor2107Choco](https://twitter.com/Darfor2107Choco)
+- 📫 How to reach me: ... [https://twitter.com/dr1ver11](https://twitter.com/dr1ver11)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am not driver
 
