@@ -1,5 +1,6 @@
 ### Here is what i'm working on! 👋
 
+How to reach me: linktr.ee/dr1ver
 
 - 🌱 I’m currently learning JavaScript: Next.js(SSR), a little bit Node.js
 - 👯 I’m looking to collaborate on React.js
