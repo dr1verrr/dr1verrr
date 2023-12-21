@@ -1,5 +1,6 @@
 ### Some quick information about me! 👋
 
+
 - 🎯 I’m currently searching for new opportunities!
 - 👯 I’m looking to collaborate on React.js
 - 🧘‍♂️ I love meditation and breathing through my nose :)
